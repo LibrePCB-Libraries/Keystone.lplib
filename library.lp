@@ -1,0 +1,10 @@
+(librepcb_library 0b886a93-bf1e-4ea6-83af-e309ffa46fae
+ (name "Keystone Electronics")
+ (description "Interconnect components and electronic hardware (inofficial).")
+ (keywords "keystone,")
+ (author "LibrePCB")
+ (version "1")
+ (created 2019-06-30T11:26:11Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/Keystone.lplib")
+)
