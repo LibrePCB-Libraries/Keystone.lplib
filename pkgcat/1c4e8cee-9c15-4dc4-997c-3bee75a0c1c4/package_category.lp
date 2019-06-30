@@ -1,0 +1,10 @@
+(librepcb_package_category 1c4e8cee-9c15-4dc4-997c-3bee75a0c1c4
+ (name "Keystone")
+ (description "Packages by Keystone Electronics")
+ (keywords "keystone")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-06-30T19:18:37Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
