@@ -1,6 +1,6 @@
 (librepcb_library 0b886a93-bf1e-4ea6-83af-e309ffa46fae
  (name "Keystone Electronics")
- (description "Interconnect components and electronic hardware (inofficial).")
+ (description "Interconnect components and electronic hardware (unofficial).")
  (keywords "keystone,")
  (author "LibrePCB")
  (version "1")

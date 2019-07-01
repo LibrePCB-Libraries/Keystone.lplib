@@ -2,7 +2,7 @@
 
 ## Description
 
-Interconnect components and electronic hardware by Keystone Electronics (inofficial).
+Interconnect components and electronic hardware by Keystone Electronics (unofficial).
 
 ## License
 
