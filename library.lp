@@ -3,7 +3,7 @@
  (description "Interconnect components and electronic hardware (unofficial).")
  (keywords "keystone,")
  (author "LibrePCB")
- (version "1")
+ (version "0.1")
  (created 2019-06-30T11:26:11Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Keystone.lplib")
