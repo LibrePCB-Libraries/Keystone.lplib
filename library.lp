@@ -7,4 +7,5 @@
  (created 2019-06-30T11:26:11Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Keystone.lplib")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )
