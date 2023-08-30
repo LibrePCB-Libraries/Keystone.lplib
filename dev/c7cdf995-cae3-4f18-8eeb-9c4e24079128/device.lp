@@ -16,4 +16,6 @@
  (pad 51105f56-3d18-4f1e-9e34-5e4d048f76ca (signal 365d2045-5c45-4c95-9424-d095b6cc7f3d))
  (pad bb35ac1b-da9a-4a7a-a126-4f7613935767 (signal 365d2045-5c45-4c95-9424-d095b6cc7f3d))
  (pad f559035b-d9f8-4ec9-ba74-71bc7385c8a9 (signal 365d2045-5c45-4c95-9424-d095b6cc7f3d))
+ (part "54" (manufacturer "Keystone Electronics")
+ )
 )
