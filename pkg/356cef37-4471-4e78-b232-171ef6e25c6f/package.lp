@@ -3,7 +3,7 @@
  (description "Keystone 1065 vertical 20mm battery cell holder for BR2012, CR2016, DL2020, CL2025, CR2032.\n\nDrawing: http://www.keyelco.com/product-pdf.cfm?p=722")
  (keywords "keystone,1065,battery,cell,holder,br2012,cr2016,dl2020,cl2025,cr2032")
  (author "U. Bruhin")
- (version "0.2")
+ (version "0.3")
  (created 2019-10-23T19:12:18Z)
  (deprecated false)
  (generated_by "")

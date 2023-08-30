@@ -3,7 +3,7 @@
  (description "Battery holder (open) for 2 cells AAA with through-hole pins.")
  (keywords "keystone,battery,holder,cell,aaa")
  (author "Jessy")
- (version "0.1")
+ (version "0.2")
  (created 2019-07-29T20:54:43Z)
  (deprecated false)
  (generated_by "")
