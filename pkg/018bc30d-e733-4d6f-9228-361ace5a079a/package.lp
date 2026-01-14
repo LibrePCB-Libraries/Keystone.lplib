@@ -3,7 +3,7 @@
  (description "Battery clips for cylindrical battery cells with a diameter of 17-19 mm (like 18650, 18500, 17650, 17500).\n\nSome of the cells may have different length depending on whether a protection circuit is present or not.")
  (keywords "keystone,battery,holder,cell,clip,18650,18500,17650,17500")
  (author "Danilo Bargen")
- (version "0.2")
+ (version "0.2.1")
  (created 2019-06-30T11:29:48Z)
  (deprecated false)
  (generated_by "")
@@ -1212,6 +1212,7 @@
    (auto_rotate true) (mirror false) (value "{{NAME}}")
   )
  )
+ (approved ambiguous_footprint_tags)
  (approved missing_footprint_3d_model
   (footprint 2d782828-58f4-4f2e-a074-0e8f49617959)
  )
